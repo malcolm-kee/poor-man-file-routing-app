@@ -1,3 +1,9 @@
+# pure-man-file-routing-app
+
+This project demo how to have file-based routing in Create React App.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [`cra-template-typewind`](https://github.com/malcolm-kee/cra-template-typewind).
 
 ## Available Scripts
