@@ -1,4 +1,4 @@
-# pure-man-file-routing-app
+# poor-man-file-routing-app
 
 This project demo how to have file-based routing in Create React App.
 
